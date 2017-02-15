@@ -1,0 +1,6 @@
+framework module TwitterSearch {
+  umbrella header "TwitterSearch-umbrella.h"
+
+  export *
+  module * { export * }
+}

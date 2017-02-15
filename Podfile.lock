@@ -1,0 +1,18 @@
+PODS:
+  - Alamofire (4.3.0)
+  - SwiftyJSON (3.1.4)
+  - TwitterSearch (0.1.0):
+    - Alamofire (~> 4.0)
+    - SwiftyJSON
+
+DEPENDENCIES:
+  - TwitterSearch
+
+SPEC CHECKSUMS:
+  Alamofire: 856a113053a7bc9cbe5d6367a555d773fc5cfef7
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+  TwitterSearch: eed4e0ed504795d1914dc89059068c14c2c230cf
+
+PODFILE CHECKSUM: e3a3a2507a27aabd25ae0b07e0ee568c6d86c487
+
+COCOAPODS: 1.2.0
