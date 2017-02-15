@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import TwitterSearch
 
 class ViewController: UIViewController {
 
